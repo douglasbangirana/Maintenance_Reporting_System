@@ -1,0 +1,7 @@
+{
+  "name": "mmu-fixit",
+  "version": "0.4.0",
+  "description": "Campus maintenance reporting system (BSE 4103 progressive coursework, Weeks 1-4)",
+  "scripts": { "start": "npx http-server . -p 3000 -c-1 -o" },
+  "license": "MIT"
+}
